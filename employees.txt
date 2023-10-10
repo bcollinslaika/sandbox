@@ -1,7 +1,7 @@
 ssn          lastname firstname age healthinsurance vision dental retirementplan
 
-123-456-7890 blow     joe       39  ppo             -      -      401k
-123-456-0987 goldman  ron       47  -               -      delta  401k
-123-654-0987 silver   mary      29  hmo             y      -      -
-321-654-0987 clark    sara      30  ppo             y      delta  401k
-321-654-1230 wolf     james     55  ppo             -      delta  401k
+123-56-7890 blow     joe       39  ppo             -      -      401k
+123-56-0987 goldman  ron       47  -               -      delta  401k
+123-54-0987 silver   mary      29  hmo             y      -      -
+321-54-0987 clark    sara      30  ppo             y      delta  401k
+321-54-1230 wolf     james     55  ppo             -      delta  401k
