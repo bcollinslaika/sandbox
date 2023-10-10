@@ -1,4 +1,4 @@
-ssn          lastname firstname age healthinsurance vision dental retirementplan
+ssn         lastname firstname age healthinsurance vision dental retirementplan
 
 123-56-7890 blow     joe       39  ppo             -      -      401k
 123-56-0987 goldman  ron       47  -               -      delta  401k
